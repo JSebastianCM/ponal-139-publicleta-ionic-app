@@ -1,7 +1,0 @@
-{
-  "name": "grupo-139-publicleta-ionic-app",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular"
-}
